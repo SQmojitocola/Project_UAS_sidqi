@@ -1,4 +1,4 @@
-//fungsi untuk manajemen stok produk yang tersedia
+//fungsi untuk mengatur identitas produk yang tersedia
 
 #include <stdio.h>
 #include <stdlib.h>
